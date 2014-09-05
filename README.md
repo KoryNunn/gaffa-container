@@ -10,7 +10,7 @@ This view should not be used directly, but instead should be inherited be other 
 
 ## Add to gaffa:
 
-    gaffa.registerConstructor(require('gaffa-frame'));
+    gaffa.registerConstructor(require('gaffa-contianer'));
 
 # API
 
