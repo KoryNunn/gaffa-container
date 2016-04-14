@@ -5,7 +5,7 @@
   "main": "container.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoryNunn/gaffa-container.git"
+    "url": "git+https://github.com/KoryNunn/gaffa-container.git"
   },
   "bugs": {
     "url": "https://github.com/KoryNunn/gaffa-container/issues"
@@ -18,5 +18,10 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Basic container view for [Gaffa](https://github.com/gaffa-tape/gaffa)",
+  "homepage": "https://github.com/KoryNunn/gaffa-container#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
